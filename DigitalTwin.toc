@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Background Knowlege of Digital Twins}{4}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}Aim of this study and motivation}{5}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}Prerequisites}{5}{subsection.1.0.3}%
+\contentsline {chapter}{\numberline {2}Methodology}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Data Dashboards in Data Science}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Machine Learning and Forecasting}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Introduction to Machine Learning and Forecasting for building digital twins}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}What is Machine Learning?}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Which Mathematical Concepts Are Used in Machine Learning and Data Science?}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Importance of Machine Learning}{11}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Machine Learning Types, Algorithms, and Usage}{11}{subsection.2.2.5}%
+\contentsline {subsubsection}{Types of Machine Learning:}{11}{section*.3}%
+\contentsline {subsubsection}{List of Common Machine Learning Algorithms}{12}{section*.4}%
+\contentsline {subsection}{\numberline {2.2.6}Linear Regression}{14}{subsection.2.2.6}%
+\contentsline {subsubsection}{Introduction to Linear Regression}{14}{section*.5}%
+\contentsline {subsection}{\numberline {2.2.7}K-Nearest Neighbors}{19}{subsection.2.2.7}%
+\contentsline {subsubsection}{Introduction to K-Nearest Neighbors}{19}{section*.6}%
+\contentsline {subsection}{\numberline {2.2.8}Measuring of Performance of Models}{24}{subsection.2.2.8}%
+\contentsline {subsubsection}{Real life example of model evaluation}{25}{section*.7}%
+\contentsline {subsection}{\numberline {2.2.9}Playing with Machine Learning Demos + Real World Examples I did}{29}{subsection.2.2.9}%
+\contentsline {subsubsection}{GalaxyML}{29}{section*.8}%
+\contentsline {subsubsection}{Neural Networks}{30}{section*.9}%
+\contentsline {subsubsection}{Machine Learning Application in ECommerce}{30}{section*.10}%
