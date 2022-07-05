@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.3)  5 JUL 2022 16:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.3)  5 JUL 2022 16:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,7 +307,7 @@ Chapter 1.
 (chapters/introduction.tex [3
 
 ]
-<images/DigitalTwinSystem.png, id=135, 453.33pt x 234.8775pt>
+<images/DigitalTwinSystem.png, id=140, 453.33pt x 234.8775pt>
 File: images/DigitalTwinSystem.png Graphic file (type png)
 <use images/DigitalTwinSystem.png>
 Package pdftex.def Info: images/DigitalTwinSystem.png  used on input line 8.
@@ -326,12 +326,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-<images/covid19dashboard.png, id=153, 316.674pt x 196.443pt>
+<images/covid19dashboard.png, id=156, 316.674pt x 196.443pt>
 File: images/covid19dashboard.png Graphic file (type png)
 <use images/covid19dashboard.png>
 Package pdftex.def Info: images/covid19dashboard.png  used on input line 18.
 (pdftex.def)             Requested size: 390.0pt x 241.94116pt.
-<images/stonkapppt1.png, id=154, 637.63219pt x 684.30656pt>
+<images/stonkapppt1.png, id=157, 637.63219pt x 684.30656pt>
 File: images/stonkapppt1.png Graphic file (type png)
 <use images/stonkapppt1.png>
 Package pdftex.def Info: images/stonkapppt1.png  used on input line 24.
@@ -377,7 +377,7 @@ LaTeX Warning: Command \textellipsis invalid in math mode on input line 88.
 
 LaTeX Warning: Command \textellipsis invalid in math mode on input line 88.
 
-<images/adgmlclassrepo.png, id=178, 589.4522pt x 326.72063pt>
+<images/adgmlclassrepo.png, id=180, 589.4522pt x 326.72063pt>
 File: images/adgmlclassrepo.png Graphic file (type png)
 <use images/adgmlclassrepo.png>
 Package pdftex.def Info: images/adgmlclassrepo.png  used on input line 107.
@@ -388,7 +388,7 @@ Overfull \hbox (29.72758pt too wide) in paragraph at lines 120--121
  []
 
 [11] [12]
-<images/deeplearningdiagram.png, id=204, 551.81157pt x 304.88907pt>
+<images/deeplearningdiagram.png, id=205, 551.81157pt x 304.88907pt>
 File: images/deeplearningdiagram.png Graphic file (type png)
 <use images/deeplearningdiagram.png>
 Package pdftex.def Info: images/deeplearningdiagram.png  used on input line 179.
@@ -398,7 +398,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-<images/linearregeg.png, id=209, 401.24907pt x 362.85562pt>
+<images/linearregeg.png, id=210, 401.24907pt x 362.85562pt>
 File: images/linearregeg.png Graphic file (type png)
 <use images/linearregeg.png>
 Package pdftex.def Info: images/linearregeg.png  used on input line 197.
@@ -423,7 +423,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
-<images/simplereg.png, id=226, 405.76593pt x 237.13594pt>
+<images/simplereg.png, id=227, 405.76593pt x 237.13594pt>
 File: images/simplereg.png Graphic file (type png)
 <use images/simplereg.png>
 Package pdftex.def Info: images/simplereg.png  used on input line 241.
@@ -433,7 +433,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
-<images/mlrgraph.jpg, id=233, 250.6455pt x 140.9265pt>
+<images/mlrgraph.jpg, id=234, 250.6455pt x 140.9265pt>
 File: images/mlrgraph.jpg Graphic file (type jpg)
 <use images/mlrgraph.jpg>
 Package pdftex.def Info: images/mlrgraph.jpg  used on input line 255.
@@ -443,13 +443,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
-<images/plr.png, id=241, 462.528pt x 346.896pt>
+<images/plr.png, id=242, 462.528pt x 346.896pt>
 File: images/plr.png Graphic file (type png)
 <use images/plr.png>
 Package pdftex.def Info: images/plr.png  used on input line 271.
 (pdftex.def)             Requested size: 390.0pt x 292.5128pt.
 [18 <./images/mlrgraph.jpg>]
-<images/knnexp.png, id=249, 451.6875pt x 225.84375pt>
+<images/knnexp.png, id=250, 451.6875pt x 225.84375pt>
 File: images/knnexp.png Graphic file (type png)
 <use images/knnexp.png>
 Package pdftex.def Info: images/knnexp.png  used on input line 282.
@@ -547,12 +547,12 @@ File: images/confusionmatrixpt2.png Graphic file (type png)
 Package pdftex.def Info: images/confusionmatrixpt2.png  used on input line 435.
 (pdftex.def)             Requested size: 390.0pt x 419.45477pt.
 [27 <./images/confusionmatrix.jpg>] [28 <./images/confusionmatrixpt2.png>]
-<images/galaxymlrepo.png, id=332, 641.39626pt x 275.52937pt>
+<images/galaxymlrepo.png, id=331, 641.39626pt x 275.52937pt>
 File: images/galaxymlrepo.png Graphic file (type png)
 <use images/galaxymlrepo.png>
 Package pdftex.def Info: images/galaxymlrepo.png  used on input line 447.
 (pdftex.def)             Requested size: 390.0pt x 167.53873pt.
-<images/neuralnetworksrepo.png, id=334, 629.35126pt x 576.65437pt>
+<images/neuralnetworksrepo.png, id=333, 629.35126pt x 576.65437pt>
 File: images/neuralnetworksrepo.png Graphic file (type png)
 <use images/neuralnetworksrepo.png>
 Package pdftex.def Info: images/neuralnetworksrepo.png  used on input line 458.
@@ -562,13 +562,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 468--470
 
  []
 
-<images/hannahgrace.png, id=343, 622.57594pt x 600.74437pt>
+<images/hannahgrace.png, id=342, 622.57594pt x 600.74437pt>
 File: images/hannahgrace.png Graphic file (type png)
 <use images/hannahgrace.png>
 Package pdftex.def Info: images/hannahgrace.png  used on input line 472.
 (pdftex.def)             Requested size: 390.0pt x 376.32597pt.
 [30 <./images/neuralnetworksrepo.png>] [31 <./images/hannahgrace.png>]
-<images/timeseries.png, id=362, 301.125pt x 225.84375pt>
+<images/timeseries.png, id=360, 301.125pt x 225.84375pt>
 File: images/timeseries.png Graphic file (type png)
 <use images/timeseries.png>
 Package pdftex.def Info: images/timeseries.png  used on input line 489.
@@ -771,58 +771,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 751--760
 
  []
 
-<images//opportunitystonks.png, id=445, 602.25pt x 641.39626pt>
+<images//opportunitystonks.png, id=442, 602.25pt x 641.39626pt>
 File: images//opportunitystonks.png Graphic file (type png)
 <use images//opportunitystonks.png>
 Package pdftex.def Info: images//opportunitystonks.png  used on input line 763.
 (pdftex.def)             Requested size: 312.00119pt x 332.29482pt.
 [42]
-<images//stonkapppt1.png, id=455, 637.63219pt x 684.30656pt>
+<images//stonkapppt1.png, id=452, 637.63219pt x 684.30656pt>
 File: images//stonkapppt1.png Graphic file (type png)
 <use images//stonkapppt1.png>
 Package pdftex.def Info: images//stonkapppt1.png  used on input line 770.
 (pdftex.def)             Requested size: 312.00119pt x 334.83282pt.
  [43 <./images//opportunitystonks.png>]
-<images//stonkapppt2.png, id=463, 755.82375pt x 569.87906pt>
+<images//stonkapppt2.png, id=459, 755.82375pt x 569.87906pt>
 File: images//stonkapppt2.png Graphic file (type png)
 <use images//stonkapppt2.png>
 Package pdftex.def Info: images//stonkapppt2.png  used on input line 777.
 (pdftex.def)             Requested size: 312.00119pt x 235.24323pt.
  [44 <./images//stonkapppt1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 784--785
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 786--787
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+[45 <./images//stonkapppt2.png>]
 <images//kaggle.png, id=471, 953.81343pt x 707.64375pt>
 File: images//kaggle.png Graphic file (type png)
 <use images//kaggle.png>
-Package pdftex.def Info: images//kaggle.png  used on input line 796.
+Package pdftex.def Info: images//kaggle.png  used on input line 798.
 (pdftex.def)             Requested size: 312.00119pt x 231.48238pt.
-[45 <./images//stonkapppt2.png>] [46 <./images//kaggle.png>]) [47]
+ [46 <./images//kaggle.png>]) [47]
 Chapter 3.
 (chapters/conclusion.tex) [48
 
 ] (DigitalTwin.aux)
 Package rerunfilecheck Info: File `DigitalTwin.out' has not changed.
-(rerunfilecheck)             Checksum: C8F05EE87731EBF0EBD2BC1F56FDE24D;4966.
+(rerunfilecheck)             Checksum: F1963ACA56E5910752FE69C9F34C0F8F;5135.
  ) 
 Here is how much of TeX's memory you used:
- 9550 strings out of 478354
- 152767 string characters out of 2846922
- 453672 words of memory out of 3000000
- 27631 multiletter control sequences out of 15000+600000
+ 9552 strings out of 478354
+ 152787 string characters out of 2846922
+ 453675 words of memory out of 3000000
+ 27632 multiletter control sequences out of 15000+600000
  479781 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,1227b,519s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ADGSENPAI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on DigitalTwin.pdf (49 pages, 1902282 bytes).
+Output written on DigitalTwin.pdf (49 pages, 1844219 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 170 named destinations out of 1000 (max. 500000)
- 294 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 595 PDF objects out of 1000 (max. 8388607)
+ 171 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

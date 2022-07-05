@@ -35,7 +35,8 @@
 \contentsline {subsubsection}{Holidays and Events}{40}{section*.20}%
 \contentsline {subsubsection}{Prophet Conclusion}{42}{section*.21}%
 \contentsline {subsubsection}{Prophet Resources}{42}{section*.22}%
-\contentsline {subsection}{\numberline {2.2.11}Revising Methodology to Build Digital Twins}{45}{subsection.2.2.11}%
-\contentsline {subsection}{\numberline {2.2.12}Python Modules that can help you out when building digital twins}{46}{subsection.2.2.12}%
+\contentsline {section}{\numberline {2.3}Building Digital Twins}{45}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Revising Methodology to Build Digital Twins}{45}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Python Modules that can help you out when building digital twins}{46}{subsection.2.3.2}%
 \contentsline {chapter}{\numberline {3}Conclusion}{48}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Conclusion}{48}{section.3.1}%
