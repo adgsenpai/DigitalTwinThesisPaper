@@ -493,6 +493,17 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT .\DigitalTwin.aux
 INPUT DigitalTwin.aux
 INPUT DigitalTwin.aux
@@ -534,6 +545,20 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\ADGSENPAI\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
@@ -557,6 +582,12 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT DigitalTwin.toc
 INPUT .\chapters\introduction.tex
 INPUT chapters\introduction.tex
@@ -711,6 +742,42 @@ INPUT .\images\hannahgrace.png
 INPUT .\images\hannahgrace.png
 INPUT .\images\hannahgrace.png
 INPUT .\images\hannahgrace.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT .\images\timeseries.png
+INPUT .\images\timeseries.png
+INPUT images\timeseries.png
+INPUT .\images\timeseries.png
+INPUT .\images\timeseries.png
+INPUT .\images\timeseries.png
+INPUT .\images\timeseries.png
+INPUT .\images\\opportunitystonks.png
+INPUT images\\opportunitystonks.png
+INPUT .\images\\opportunitystonks.png
+INPUT .\images\\opportunitystonks.png
+INPUT .\images\\opportunitystonks.png
+INPUT .\images\\opportunitystonks.png
+INPUT .\images\\stonkapppt1.png
+INPUT images\\stonkapppt1.png
+INPUT .\images\\stonkapppt1.png
+INPUT .\images\\stonkapppt1.png
+INPUT .\images\\stonkapppt1.png
+INPUT .\images\\stonkapppt1.png
+INPUT .\images\\stonkapppt2.png
+INPUT images\\stonkapppt2.png
+INPUT .\images\\stonkapppt2.png
+INPUT .\images\\stonkapppt2.png
+INPUT .\images\\stonkapppt2.png
+INPUT .\images\\stonkapppt2.png
+INPUT .\images\\kaggle.png
+INPUT images\\kaggle.png
+INPUT .\images\\kaggle.png
+INPUT .\images\\kaggle.png
+INPUT .\images\\kaggle.png
+INPUT .\images\\kaggle.png
+INPUT .\chapters\conclusion.tex
+INPUT chapters\conclusion.tex
+INPUT .\chapters\conclusion.tex
+INPUT chapters\conclusion.tex
 INPUT DigitalTwin.aux
 INPUT .\DigitalTwin.out
 INPUT .\DigitalTwin.out
@@ -722,6 +789,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
@@ -730,9 +799,19 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
