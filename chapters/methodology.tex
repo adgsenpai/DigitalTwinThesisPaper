@@ -26,10 +26,10 @@ We could sketch graphs on this data and predict values based on parameter behavi
     \label{fig:stonkapppt1}
 \end{figure}
 
-\section{Machine Learning and Forecasting}
-\subsection{Introduction to Machine Learning and Forecasting for building digital twins}
+\section{Machine Learning}
+\subsection{Introduction to Machine Learning for building digital twins}
 
-Machine learning and forecasting are important tools in the digital twin toolbox. It is the most important component of the digital twin; without these tools and knowledge, the digital twin would not exist. Artificial Intelligence includes the subcategory of Machine Learning. Machine Learning is used to find trends/equations created from Machine Learning models that best describe our data and will be used to make predictions based on input and output data.
+Machine learning is important tools in the digital twin toolbox. It is the most important component of the digital twin; without these tools and knowledge, the digital twin would not exist. Artificial Intelligence includes the subcategory of Machine Learning. Machine Learning is used to find trends/equations created from Machine Learning models that best describe our data and will be used to make predictions based on input and output data.
 Let me describe the above in simple mathematical equations. \\
 
 Let’s take our old-school way of a simple function/formula to determine some sort of output. Let us say
@@ -476,7 +476,7 @@ given a users BUST(CM) and HIPS(CM) \\
 
 you can play with it @ \url{https://www.hannahgrace.co.za/size-guide/} this app has an accuracy of 100\%
 
-\subsection{Forecasting with Prophet}
+\section{Forecasting with Prophet}
 \subsubsection{What is Forecasting?}
 
 \textit{Forecasting} is the process of predicting the future based on historical and current data. These can then be compared (resolved) to what actually happens. For example, a company might forecast revenue for the coming year and then compare it to actual results. Prediction is a related but broader term. Forecasting can refer to formal statistical methods that use \textit{time series}, cross-sectional, or longitudinal data, as well as less formal judgmental methods or the prediction and resolution process itself. In hydrology, for example, the terms "forecast" and "forecasting" are sometimes used to refer to estimates of values at specific future times, whereas the term "prediction" is used to refer to more general estimates.
@@ -498,7 +498,7 @@ In 2017, Facebook (now called Meta) released Prophet, an open-source forecasting
 Producing high-quality forecasts is a challenge. Businesses usually resort to either of the two options to create forecasts — they use completely automatic forecasting techniques or are entirely dependent on human analysts to produce high-quality forecasts. Both the options have their own drawbacks. In the case of complete automation, forecasting techniques produced are brittle and inflexible; incorporating useful assumptions becomes difficult. On the other hand, it is a challenge to find analysts who can create forecasts because it requires people with specialized data science skills with substantial experience. To remediate these challenges, Prophet attempts to offer the best of both worlds. Users are not left at the complete mercy of an automatic process; instead, an analyst with no training in time series can help improve and tweak forecasts using easily interpretable parameters. According to Meta, Prophet offers a straightforward way to create a ‘reasonable and accurate forecast’. Further, the forecasts made by Prophet are customisable in a way that is intuitive to even non-experts.
 
 
-\subsubsection{How does Prophet work mathematically? + Prophet models explained mathematically.}
+\subsection{How does Prophet work mathematically? + Prophet models explained mathematically.}
 The Prophet procedure is an additive regression model with four main components — a piecewise linear logistic growth curve trend; a yearly seasonal component modelled using Fourier series; a weekly seasonal component created using dummy variables; a user-provided list of important holidays. The procedure makes use of a decomposable time series model with three main model components: trend, seasonality, and holidays. This is an important technique for all types of time series analysis, especially for seasonal adjustment. It seeks to construct, from an observed time series, a number of component series (that could be used to reconstruct the original by additions or multiplications) where each of these has a certain characteristic or type of behaviour.
 Similar to a generalized additive model (GAM), with time as a regressor.
 In statistics, a generalized additive model (GAM) is a generalized linear model in which the linear response variable depends linearly on unknown smooth functions of some predictor variables, and interest focuses on inference about these smooth functions.
@@ -743,11 +743,11 @@ As with seasonality, Prophet uses a prior $\kappa-Normal(0,v^2)$. \\
 
 “It is often important to include effects for a window of days around a particular holiday, such as the weekend of Thanksgiving. To account for that we include additional parameters for the days surrounding the holiday, essentially treating each of the days in the window around the holiday as a holiday itself.” - Meta
 
-\subsubsection{Prophet Conclusion}
+\subsection{Prophet Conclusion}
 Ultimately, Prophet was engineered to help analysts with a variety of backgrounds produce more forecasts with less time invested towards doing so. This was achieved by sticking to a relatively plain model. \\ 
 “We use a simple, modular regression model that often works well with default parameters, and that allows analysts to select the components that are relevant to their forecasting problem and easily make adjustments as needed.” - Meta
 
-\subsubsection{Prophet Resources}
+\subsection{Prophet Resources}
 Official Prophet Meta Website \\ 
 \url{https://facebook.github.io/prophet/} \\
 Official Developer Documentation \\

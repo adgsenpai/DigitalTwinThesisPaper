@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1659548228 "c:/Users/ADGSENPAI/Code/DigitalTwinThesisPaper/DigitalTwin.tex" "DigitalTwin.pdf" "DigitalTwin" 1659548230
+["pdflatex"] 1659548770 "c:/Users/ADGSENPAI/Code/DigitalTwinThesisPaper/DigitalTwin.tex" "DigitalTwin.pdf" "DigitalTwin" 1659548773
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -94,15 +94,15 @@
   "C:/Users/ADGSENPAI/AppData/Roaming/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty" 1575399536 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "C:/Users/ADGSENPAI/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/ADGSENPAI/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
-  "DigitalTwin.aux" 1659548230 13380 558951d9fd78614221169fc963009f99 "pdflatex"
-  "DigitalTwin.out" 1659548230 9422 418e11d3f4f055fa11db135858fdd534 "pdflatex"
-  "DigitalTwin.tex" 1659548224 961 27dfe07df39a7cedd8457b348032f5be ""
-  "DigitalTwin.toc" 1659548230 4382 f44db373c09d9cc152acd27bd8df54f0 "pdflatex"
-  "c:/Users/ADGSENPAI/Code/DigitalTwinThesisPaper/DigitalTwin.tex" 1659548224 961 27dfe07df39a7cedd8457b348032f5be ""
+  "DigitalTwin.aux" 1659548772 13276 210ac8f2dd5af4c76a6f1f2b7068245e "pdflatex"
+  "DigitalTwin.out" 1659548772 9185 904887e35de9bc472db8ab928a89bf34 "pdflatex"
+  "DigitalTwin.tex" 1659548466 961 27dfe07df39a7cedd8457b348032f5be ""
+  "DigitalTwin.toc" 1659548772 4278 25c86a89aab1cdffede0e1d96970ec1f "pdflatex"
+  "c:/Users/ADGSENPAI/Code/DigitalTwinThesisPaper/DigitalTwin.tex" 1659548466 961 27dfe07df39a7cedd8457b348032f5be ""
   "chapters/abstract.tex" 1656877863 951 9756f3d88309420b5c223f226fe365b1 ""
   "chapters/conclusion.tex" 1657032023 930 ce7a48b3b42eeede42dfbaa7d309eea0 ""
   "chapters/introduction.tex" 1657032022 5342 0d92d44e811fa5c69291feeb7002270f ""
-  "chapters/methodology.tex" 1657032026 47610 b03fddc1dab76a92ec6831960a797f32 ""
+  "chapters/methodology.tex" 1659548767 47549 7a7b572220b16ccfbb72ee2a44b95f8b ""
   "images//kaggle.png" 1657030346 131873 4482f4b43375bd9d50eedcbb34ff32d6 ""
   "images//opportunitystonks.png" 1657030346 496255 97a50559da9fd0b2a6ccd36a74e11e08 ""
   "images//stonkapppt1.png" 1657030346 45454 1d287e3e445dd2c2fc32fbed0ef05beb ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.3)  3 AUG 2022 19:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.3)  3 AUG 2022 19:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -567,13 +567,23 @@ File: images/hannahgrace.png Graphic file (type png)
 <use images/hannahgrace.png>
 Package pdftex.def Info: images/hannahgrace.png  used on input line 472.
 (pdftex.def)             Requested size: 390.0pt x 376.32597pt.
-[31 <./images/neuralnetworksrepo.png>] [32 <./images/hannahgrace.png>]
+[31 <./images/neuralnetworksrepo.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 480.
+
+[32 <./images/hannahgrace.png>]
 <images/timeseries.png, id=456, 301.125pt x 225.84375pt>
 File: images/timeseries.png Graphic file (type png)
 <use images/timeseries.png>
 Package pdftex.def Info: images/timeseries.png  used on input line 489.
 (pdftex.def)             Requested size: 200.75073pt x 150.57016pt.
- [33 <./images/timeseries.png>] [34]
+ [33 <./images/timeseries.png>]
+Overfull \hbox (26.0312pt too wide) in paragraph at lines 501--501
+[]\OT1/cmr/bx/n/14.4 How does Prophet work math-e-mat-i-cally? + Prophet
+ []
+
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
@@ -810,18 +820,18 @@ Chapter 3.
 
 ] (DigitalTwin.aux)
 Package rerunfilecheck Info: File `DigitalTwin.out' has not changed.
-(rerunfilecheck)             Checksum: 418E11D3F4F055FA11DB135858FDD534;9422.
+(rerunfilecheck)             Checksum: 904887E35DE9BC472DB8AB928A89BF34;9185.
  ) 
 Here is how much of TeX's memory you used:
  9573 strings out of 478354
- 153491 string characters out of 2846922
- 453694 words of memory out of 3000000
+ 153419 string characters out of 2846922
+ 453698 words of memory out of 3000000
  27652 multiletter control sequences out of 15000+600000
  479781 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,1227b,519s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ADGSENPAI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on DigitalTwin.pdf (50 pages, 1857696 bytes).
+Output written on DigitalTwin.pdf (50 pages, 1857382 bytes).
 PDF statistics:
  680 PDF objects out of 1000 (max. 8388607)
  172 named destinations out of 1000 (max. 500000)
