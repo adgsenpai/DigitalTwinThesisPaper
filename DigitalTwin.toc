@@ -1,42 +1,42 @@
-\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
-\contentsline {subsection}{\numberline {1.0.1}Background Knowlege of Digital Twins}{4}{subsection.1.0.1}%
-\contentsline {subsection}{\numberline {1.0.2}Aim of this study and motivation}{5}{subsection.1.0.2}%
-\contentsline {subsection}{\numberline {1.0.3}Prerequisites}{5}{subsection.1.0.3}%
-\contentsline {chapter}{\numberline {2}Methodology}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Data Dashboards in Data Science}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Machine Learning and Forecasting}{9}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Introduction to Machine Learning and Forecasting for building digital twins}{9}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}What is Machine Learning?}{11}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Which Mathematical Concepts Are Used in Machine Learning and Data Science?}{11}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Importance of Machine Learning}{11}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Machine Learning Types, Algorithms, and Usage}{11}{subsection.2.2.5}%
-\contentsline {subsubsection}{Types of Machine Learning:}{11}{section*.3}%
-\contentsline {subsubsection}{List of Common Machine Learning Algorithms}{12}{section*.4}%
-\contentsline {subsection}{\numberline {2.2.6}Linear Regression}{14}{subsection.2.2.6}%
-\contentsline {subsubsection}{Introduction to Linear Regression}{14}{section*.5}%
-\contentsline {subsection}{\numberline {2.2.7}K-Nearest Neighbors}{19}{subsection.2.2.7}%
-\contentsline {subsubsection}{Introduction to K-Nearest Neighbors}{19}{section*.6}%
-\contentsline {subsection}{\numberline {2.2.8}Measuring of Performance of Models}{24}{subsection.2.2.8}%
-\contentsline {subsubsection}{Real life example of model evaluation}{25}{section*.7}%
-\contentsline {subsection}{\numberline {2.2.9}Playing with Machine Learning Demos + Real World Examples I did}{29}{subsection.2.2.9}%
-\contentsline {subsubsection}{GalaxyML}{29}{section*.8}%
-\contentsline {subsubsection}{Neural Networks}{30}{section*.9}%
-\contentsline {subsubsection}{Machine Learning Application in ECommerce}{30}{section*.10}%
-\contentsline {subsection}{\numberline {2.2.10}Forecasting with Prophet}{31}{subsection.2.2.10}%
-\contentsline {subsubsection}{What is Forecasting?}{31}{section*.11}%
-\contentsline {subsubsection}{What is Prophet?}{32}{section*.12}%
-\contentsline {subsubsection}{How does Prophet work mathematically? + Prophet models explained mathematically.}{33}{section*.13}%
-\contentsline {subsubsection}{Trends}{34}{section*.14}%
-\contentsline {subsubsection}{Saturating Growth Model}{34}{section*.15}%
-\contentsline {subsubsection}{Linear Trend with Changepoints}{36}{section*.16}%
-\contentsline {subsubsection}{Automatic Changepoint Selection}{37}{section*.17}%
-\contentsline {subsubsection}{Trend Forecast Uncertainty}{38}{section*.18}%
-\contentsline {subsubsection}{Seasonality}{39}{section*.19}%
-\contentsline {subsubsection}{Holidays and Events}{40}{section*.20}%
-\contentsline {subsubsection}{Prophet Conclusion}{42}{section*.21}%
-\contentsline {subsubsection}{Prophet Resources}{42}{section*.22}%
-\contentsline {section}{\numberline {2.3}Building Digital Twins}{45}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Revising Methodology to Build Digital Twins}{45}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Python Modules that can help you out when building digital twins}{46}{subsection.2.3.2}%
-\contentsline {chapter}{\numberline {3}Conclusion}{48}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Conclusion}{48}{section.3.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}Background Knowlege of Digital Twins}{5}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}Aim of this study and motivation}{6}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}Prerequisites}{6}{subsection.1.0.3}%
+\contentsline {chapter}{\numberline {2}Methodology}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Data Dashboards in Data Science}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Machine Learning and Forecasting}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Introduction to Machine Learning and Forecasting for building digital twins}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}What is Machine Learning?}{12}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Which Mathematical Concepts Are Used in Machine Learning and Data Science?}{12}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Importance of Machine Learning}{12}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Machine Learning Types, Algorithms, and Usage}{12}{subsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.5.1}Types of Machine Learning:}{12}{subsubsection.2.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.2.5.2}List of Common Machine Learning Algorithms}{13}{subsubsection.2.2.5.2}%
+\contentsline {subsection}{\numberline {2.2.6}Linear Regression}{15}{subsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.6.1}Introduction to Linear Regression}{15}{subsubsection.2.2.6.1}%
+\contentsline {subsection}{\numberline {2.2.7}K-Nearest Neighbors}{20}{subsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.2.7.1}Introduction to K-Nearest Neighbors}{20}{subsubsection.2.2.7.1}%
+\contentsline {subsection}{\numberline {2.2.8}Measuring of Performance of Models}{25}{subsection.2.2.8}%
+\contentsline {subsubsection}{\numberline {2.2.8.1}Real life example of model evaluation}{26}{subsubsection.2.2.8.1}%
+\contentsline {subsection}{\numberline {2.2.9}Playing with Machine Learning Demos + Real World Examples I did}{30}{subsection.2.2.9}%
+\contentsline {subsubsection}{\numberline {2.2.9.1}GalaxyML}{30}{subsubsection.2.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.2.9.2}Neural Networks}{31}{subsubsection.2.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.2.9.3}Machine Learning Application in ECommerce}{31}{subsubsection.2.2.9.3}%
+\contentsline {subsection}{\numberline {2.2.10}Forecasting with Prophet}{32}{subsection.2.2.10}%
+\contentsline {subsubsection}{\numberline {2.2.10.1}What is Forecasting?}{32}{subsubsection.2.2.10.1}%
+\contentsline {subsubsection}{\numberline {2.2.10.2}What is Prophet?}{33}{subsubsection.2.2.10.2}%
+\contentsline {subsubsection}{\numberline {2.2.10.3}How does Prophet work mathematically? + Prophet models explained mathematically.}{34}{subsubsection.2.2.10.3}%
+\contentsline {subsubsection}{\numberline {2.2.10.4}Trends}{35}{subsubsection.2.2.10.4}%
+\contentsline {subsubsection}{\numberline {2.2.10.5}Saturating Growth Model}{35}{subsubsection.2.2.10.5}%
+\contentsline {subsubsection}{\numberline {2.2.10.6}Linear Trend with Changepoints}{37}{subsubsection.2.2.10.6}%
+\contentsline {subsubsection}{\numberline {2.2.10.7}Automatic Changepoint Selection}{38}{subsubsection.2.2.10.7}%
+\contentsline {subsubsection}{\numberline {2.2.10.8}Trend Forecast Uncertainty}{39}{subsubsection.2.2.10.8}%
+\contentsline {subsubsection}{\numberline {2.2.10.9}Seasonality}{40}{subsubsection.2.2.10.9}%
+\contentsline {subsubsection}{\numberline {2.2.10.10}Holidays and Events}{41}{subsubsection.2.2.10.10}%
+\contentsline {subsubsection}{\numberline {2.2.10.11}Prophet Conclusion}{43}{subsubsection.2.2.10.11}%
+\contentsline {subsubsection}{\numberline {2.2.10.12}Prophet Resources}{43}{subsubsection.2.2.10.12}%
+\contentsline {section}{\numberline {2.3}Building Digital Twins}{46}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Revising Methodology to Build Digital Twins}{46}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Python Modules that can help you out when building digital twins}{47}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Conclusion}{49}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Conclusion}{49}{section.3.1}%
